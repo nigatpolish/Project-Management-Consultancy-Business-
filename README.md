@@ -30,7 +30,7 @@ Educator, Entrepreneur, and Quantitative Finance enthusiast with **20+ years of 
     
   * *Entrepreneurship & Leadership:* 5 years building ventures, registered intellectual property (waste plastic recycling), and project management consultancy.
  
-  * * *Researcher, Trainer & Consultant:* 5+ Designing project frameworks, corporate capacity-building programs, and monitoring & evaluation systems (PM Solutions).
+  * *Researcher, Trainer & Consultant:* 5+ Designing project frameworks, corporate capacity-building programs, and monitoring & evaluation systems (PM Solutions).
 
 ## Qualifications
 
