@@ -1,21 +1,12 @@
-MIT License
+### Hi there, I'm Nigatu
 
-Copyright (c) 2026 Nigatu Mamo Taddese
+* **Quantitative Finance & Financial Engineering**: Working with portfolio optimization, asset pricing, risk modeling, and deep learning for time-series forecasting.
+  
+* **Data & Machine Learning**: Python development using `pandas`, `NumPy`, `PyTorch`, `scikit-learn`, and `statsmodels` for econometric and predictive modeling.
+  
+* **Education & Tech**: Combining over a decade of teaching experience with curriculum design, STEM tools, and software solutions.
+  
+* **Venture & Innovation**: Passionate about practical applications in entrepreneurship, waste-plastic recycling systems, and project management consultancy.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ **Reach out / Connect:** 
+* GitHub: [@nigatpolish](https://github.com/nigatpolish)
