@@ -1,4 +1,4 @@
-# Hi there, I'm Negatsu 
+# Hi there, I'm Nigatu
 
 Educator, Entrepreneur, and Quantitative Finance enthusiast with **15+ years of combined experience** spanning teaching, leadership, and entrepreneurship. Currently pursuing an M.Sc. in Financial Engineering, backed by an M.A. in Project Management and a BA in Chemistry.
 
